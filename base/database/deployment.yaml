@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: database
-        image: <account-id>.dkr.ecr.us-east-1.amazonaws.com/database:v1.0
+        image: 084375569056.dkr.ecr.us-east-1.amazonaws.com/database:v1.0
         resources:
           requests:
             cpu: "200m"
